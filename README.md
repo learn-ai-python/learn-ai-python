@@ -1,4 +1,4 @@
-# Hello, this is my LearnAI YouTube Channel's GitHub 👋
+# Hello, welcome to my LearnAI YouTube Channel's GitHub 👋
 
 <br/>
 
