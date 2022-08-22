@@ -3,5 +3,5 @@
 <br/>
 
 ## [❤️ My YouTube Channel "Learn AI"](https://www.youtube.com/channel/UCEJ8IRbmEl3tEZahc17pwrw)
-## [📚 Instagram Page](https://www.instagram.com/learn.ai.python/)
+## [📚 My YouTube Channel's Instagram Page](https://www.instagram.com/learn.ai.python/)
 
