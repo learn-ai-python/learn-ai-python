@@ -1,4 +1,4 @@
-# Вітаю у моєму Learn AI Python GitHub 👋
+# Learn AI Python GitHub 👋
 
 <br/>
 
