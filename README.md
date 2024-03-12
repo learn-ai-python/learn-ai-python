@@ -1,6 +1,7 @@
-# Learn AI Python GitHub 👋
-
+# 👋 Hi, I'm Maryna Antonevych. And this is my project "Learn AI Python"
+👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science
 <br/>
 
-## [❤️ TikTok "Learn AI Python" (UA)](https://www.tiktok.com/@learn.ai.python?lang=uk-UA)
-## [📚 Instagram "Learn AI Python" (UA)](https://www.instagram.com/learn.ai.python/)
+## 💻 [Check my full information in my CV](https://maricinnamon.github.io/)
+
+
