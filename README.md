@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Maryna Antonevych. 
+# 👋 Hi, I'm Maryna Antonevych
 👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science
 <br/>
 
